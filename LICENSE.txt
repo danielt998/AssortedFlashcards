@@ -1,0 +1,1 @@
+Note that the file Ubuntu_all.tsv is licensed under the GNU GENERAL PUBLIC LICENSE Version 2 (see GPL.txt) as it uses content from the Ubuntu project (https://packages.ubuntu.com/bionic/language-pack-zh-hans-base)
